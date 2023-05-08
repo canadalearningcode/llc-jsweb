@@ -65,7 +65,7 @@ Today's tool: CodeSandbox.io | 15-19 |
 JavaScript _and_ the Web | 20-23 |
 JavaScript & JavaScript Syntax 1[^syntax-1] | 25-30
 __Exercise 0:__ IDE setup and console dot log _Hello world_ | 31 | 10 mins 
-JavaScript Syntax 1.5[^syntax-1.5] | 32-33
+JavaScript Syntax 1.5[^syntax-1-5] | 32-33
 Introducing the Document Object Model & `document` object | 34-36
 HTML, CSS & the DOM | 37-45 |
 Selectors and selecting elements | 46-51 |
@@ -81,6 +81,6 @@ __Exercise 5:__ Loop secret message | 73 | 15 mins
 Wrap up | 74-78 | 
 
 [^syntax-1]: JavaScript Syntax 1: Basics of JavaScript syntax (the concept of keywords, symbols); the meaning of brackets `()`; using dot notation to invoke an object's methods or access its properties, e.g. `objectName.someProperty`.
-[^syntax-1.5]: JavaScript Syntax 1.5: Comments `//`, objects
+[^syntax-1-5]: JavaScript Syntax 1.5: Comments `//`, objects
 [^syntax-2]: JavaScript Syntax 2: Arguments, text strings, variables
 [^syntax-3]: JavaScript Syntax 3: Arrays and lists
