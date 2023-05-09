@@ -11,23 +11,13 @@ Skip to [delivery notes](#delivery-notes).
 
 ### Content
 
-#### __Slides__
-
-Title | Language | Link 
+Type | Language | Link 
 --- | --- | ---
-JavaScript for the Web (Part 1) | English | Google Slides: [Online or in-person](https://docs.google.com/presentation/d/1qD9WIVqXdVBYNJKsi56jDBqspmrNbFa5BZaEzTEDS0c/edit?usp=share_link)
-
-
-#### __Starting project / Development environment__
-
-Title | Language | Link 
---- | --- | ---
-JavaScript for the Web (Part 1) | English | CodeSandbox: [bit.ly/llc-jsweb-ide](https://bit.ly/llc-jsweb-ide)
-
-#### __Finished project / Demo__
-Title | Language | Link 
---- | --- | ---
-JavaScript for the Web (Part 1) | English | CodeSandbox: [bit.ly/llc-jsweb-demo](https://bit.ly/llc-jsweb-demo)
+Instructor notes 👈 _YOU ARE HERE_ | English | [GitHub Pages](https://ladieslearningcode.github.io/llc-jsweb)
+Slides | English | Google Slides: [Online or in-person](https://docs.google.com/presentation/d/1qD9WIVqXdVBYNJKsi56jDBqspmrNbFa5BZaEzTEDS0c/edit?usp=share_link)
+Learner references  | English | Github Wiki: [bit.ly/llc-jsweb-refs](https://bit.ly/llc-jsweb-refs)
+Starting project / development environment | English | CodeSandbox: [bit.ly/llc-jsweb-ide](https://bit.ly/llc-jsweb-ide)
+Finished project / demo | English | CodeSandbox: [bit.ly/llc-jsweb-demo](https://bit.ly/llc-jsweb-demo)
 
 ## Versioning
 ### 1.0.0-b.1 (May 2023)
