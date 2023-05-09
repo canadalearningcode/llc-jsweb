@@ -2,6 +2,8 @@
 
 ## Quick Links and Requirements
 
+Skip to [delivery notes](#delivery-notes).
+
 ### Software
 
 * CodeSandbox: [https://codesandbox.io]()
@@ -82,10 +84,10 @@ Wrap up | 74-78 |
 
 ## Prep Work
 Before the workshop...
-
+### General preparation
 * [ ] Review instructor resources (e.g., notes, slides, solution sheet, example projects, learner references)
     * [ ] Review learning objectives and ensure you understand when and how they are accomplished within the content
-    * [ ] Review coding concepts and ensure you are confident describing them to your group
+    * [ ] Review coding concepts and ensure you are confident describing them to your group (see [technical preparation](#technical-preparation))
     * [ ] Code and build (if applicable) the workshop’s main project, ensuring you are comfortable with all steps outlined
 * _If applicable:_
     * [ ] Decide which content primary instructor and co-instructor are responsible for covering in the workshop
@@ -93,9 +95,32 @@ Before the workshop...
 * [ ] Prepare a land acknowledgment appropriate for your region. 
 * [ ] Ensure landing pages to links, videos, and/or examples are correct. _If you find something that's broken, missing, or incorrect, submit a Content Repair Request._
 
+### Technical preparation
+You will need to have an understanding of the following concepts to deliver this workshop:
+* [ ] Basic JavaScript syntax (common keywords and symbols; structure) 
+* [ ] Writing to the web browser console with `console.log()`.
+* [ ] Using dot notation to access an object's properties.
+* [ ] Using dot notation to invoke an object's methods.
+* [ ] Invoking functions that require arguments. 
+* [ ] Disabling code with comments.
+* [ ] The document object model (DOM) API and what it does.
+* [ ] Basic CSS selector syntax (element type, class, ID)
+* [ ] Basic semantic HTML concepts, page structures, elements and attributes.
+* [ ] Using `document.querySelector()` to find an element.
+* [ ] Using `Element.classList`'s methods, `add()`, `remove()`, and `toggle()`, to manipulate the `class` attribute of an element.
+* [ ] Using `document.querySelectorAll()` to find a collection of similar elements.
+* [ ] Declaring variables with `let`.
+* [ ] Variable naming limitations and conventions.
+* [ ] Assigning values to variables with the assignment `=` operator.
+* [ ] Accessing array elements using an index and square brackets `[]`.
+* [ ] JavaScript data types, especially text `string`s.
+* [ ] Traversing an array or collection using a `for` loop.
+
 ## Delivery Notes
 
-_Coming soon!_
+* __Minimize the time spent on slides before coding begins.__ This workshop is fairly dense, and while these early slides provide important context (which is why they are included), trying to maximize learner interaction at this early stage is less valuable than getting into, and through, the content and exercises.
+* If this is being delivered online and mentors & breakout rooms are being used, consider still starting each exercise as the whole group, to get the ball rolling.
+* The timings provided for the exercises are guidelines. Generally speaking, the exercises aren't particularly long and shouldn't actually take as long as described. Be strict on calling everyone back once the time limit has been reached and consider having shorter breakout times to account for time used if taking up the solutions to the exercises. 
 
 ## Supplemental Resources
 
@@ -144,6 +169,13 @@ _Coming soon!_
 * A collection of three computer languages, [Cascading Style Sheets (CSS)](#cascading-style-sheets-css), [HyperText Markup Language (HTML)](#hypertext-markup-language-html), and [JavaScript (JS)](#javascript-js), that are found on most, if not all, web pages on the internet.
 
 ### Modifications and Extensions
+#### Modifications
+* The exercises can also be run as a large group (a mix of `we` & `you`), if breakout rooms aren't an option.
+
+#### Extensions
+* If all the content is completed, the content for Part 2 is included as "stretch" content and can be started.
+
+_More coming soon!_
 
 ---
 [^syntax-1]: JavaScript Syntax 1: Basics of JavaScript syntax (keywords, symbols); dot notation to invoke an object's methods or access its properties, e.g. `objectName.someProperty`.  
