@@ -13,7 +13,7 @@ Skip to [delivery notes](#delivery-notes).
 
 Type | Language | Link 
 --- | --- | ---
-Instructor notes 👈 _YOU ARE HERE_ | English | [GitHub Pages](https://ladieslearningcode.github.io/llc-jsweb)
+Instructor notes 👈 _YOU ARE HERE_ | English | [GitHub Pages](https://canadalearningcode.github.io/llc-jsweb/)
 Slides | English | Google Slides: [Online or in-person](https://docs.google.com/presentation/d/1qD9WIVqXdVBYNJKsi56jDBqspmrNbFa5BZaEzTEDS0c/edit?usp=share_link)
 Learner references  | English | Github Wiki: [bit.ly/llc-jsweb-refs](https://bit.ly/llc-jsweb-refs)
 Starting project / development environment | English | CodeSandbox: [bit.ly/llc-jsweb-ide](https://bit.ly/llc-jsweb-ide)
@@ -127,7 +127,7 @@ You will need to have an understanding of the following concepts to deliver this
 * An object that is provided by a web browser as a way for a web page to communicate with a browser's built-in console.
 * Messages are sent to a browser's console using various methods that are part of the Console [API](#application-programming-interface-api), such as `log()` or `warn()`.
 * _Read more about this in the [MDN Web Docs: console](https://developer.mozilla.org/en-US/docs/Web/API/console) reference page_.
-#### Developement environment
+#### Development environment
 * _See [integrated development environment (IDE)](#integrated-development-environment-ide)._
 #### `document` object
 * An object provided by the [document object model (DOM)](#document-object-model-dom) [API](#application-programming-interface-api) that is a data representation of the structure and content that is defined by the HTML code of a web page. 
