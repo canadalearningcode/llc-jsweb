@@ -1,5 +1,5 @@
 ---
-title: JavaScript for the Web (Part 1): Instructor Notes
+title: "JavaScript for the Web (Part 1): Instructor Notes"
 ---
 
 ## Quick Links and Requirements
